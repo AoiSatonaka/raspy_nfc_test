@@ -1,0 +1,15 @@
+importlib-metadata==4.11.3
+importlib-resources==5.7.1
+libusb1==3.0.0
+ndeflib==0.3.3
+nfcpy==1.0.4
+packaging==21.3
+pip==22.1
+pkg-about==1.0.4
+pyDes==2.0.1
+pyparsing==3.0.9
+pyserial==3.5
+setuptools==49.2.1
+six==1.15.0
+wheel==0.36.2
+zipp==3.8.0
